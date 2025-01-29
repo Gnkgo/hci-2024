@@ -1,0 +1,7 @@
+*.zip
+*.pyc
+*.pyo
+
+.DS_Store
+
+db_config.yaml
